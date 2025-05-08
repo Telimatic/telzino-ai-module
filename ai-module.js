@@ -6,7 +6,7 @@ if (typeof omp_level !== 'undefined' && omp_level === 'navigation_omp') {
 
 const navList = document.getElementById('nav-buttons');
 if (!navList) {
-  console.error('AI Module: no nav list in the DOM);
+  console.error('AI Module: no nav list in the DOM');
   return;
 }
   const firstNavButton = navList.querySelector('li');
