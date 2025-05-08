@@ -29,6 +29,7 @@ if (navButtonDiv) {
 }
 
   console.log('omp_level is "abc"');
+  
 }
 
 
@@ -55,8 +56,7 @@ if (element) {
 }
 
 newbutton.appendTo($('#nav-buttons'));
-
-
+*/
 })();
 
 
